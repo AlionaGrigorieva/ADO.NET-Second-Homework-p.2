@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Minerals>
+	<Mineral id="1" name="Peridot" color="Olive-green" isTransparent="1" typeID="3" description="Silicate mineral variety" />
+	<Mineral id="4" name="Diamond" color="Colorless" isTransparent="1" typeID="2" description="Native minerals" />
+	<Mineral id="5" name="Obsidian" color="Black" isTransparent="1" typeID="2" description="Volcanic glass" />
+	<Mineral id="6" name="Emerald" color="Green" isTransparent="1" typeID="1" description="Beryl variety" />
+	<Mineral id="8" name="Onyx" color="Various" isTransparent="0" typeID="3" description="Oxide mineral" />
+</Minerals>
+
+
